@@ -1,0 +1,34 @@
+{
+  "title": "BERN02 Exercises: Reproducible Regression and GLM Workflows",
+  "description": "Reproducible Jupyter notebook workflows for a linear regression analysis of bird count data and a generalized linear model (GLM) analysis of pollution data, developed as coursework for the BERN02 module. Includes pinned dependencies, documented data provenance, and a discussion of adherence to FAIR data principles.",
+  "creators": [
+    {
+      "name": "Benjamin Bezzina",
+      "affiliation": "Lund University",
+      "orcid": "0000-0000"
+    }
+  ],
+  "keywords": [
+    "regression",
+    "generalized linear model",
+    "GLM",
+    "ecology",
+    "bird count data",
+    "pollution data",
+    "reproducible research",
+    "FAIR data",
+    "Jupyter notebook"
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "upload_type": "software",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "<link to course page>",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-thesis"
+    }
+  ],
+  "notes": "Data files included under data/ are described in data/pollution_metadata.txt. Check original data source terms before reuse if applicable."
+}
