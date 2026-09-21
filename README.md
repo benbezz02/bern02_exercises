@@ -6,12 +6,16 @@ Reproducible workflows for two data-analysis exercises: a linear regression anal
 
 | File / folder | Description |
 |---|---|
-| `regression.ipynb` | Exercise 1: linear regression analysis (bird count data) |
-| `glr.ipynb` | Exercise 2: generalized linear regression analysis (pollution data) |
+| `regression.ipynb` | Exercise: linear regression analysis (bird count data) |
+| `glr.ipynb` | Exercise: generalized linear regression analysis (pollution data) |
+| `hierarcal_models.py.ipynb` | Exercise: Hierarchical Models and Testing |
+| `unsupervised_learning.ipynb` | Exercise: Unsupervised Learning |
+| `visualisation.ipynb` | Exercise: Visualisation |
 | `data/bird_count.csv` | Full bird count dataset |
 | `data/bird_count_samples.csv` | Sampled subset of the bird count dataset |
 | `data/pollution_cleaneddata.csv` | Cleaned pollution dataset used in `glr.ipynb` |
 | `data/pollution_metadata.txt` | Metadata describing the pollution dataset's fields, units, and provenance |
+| `data/towelData.csv` | Dataset of Towel Experiments |
 
 ## Requirements
 
